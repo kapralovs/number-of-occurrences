@@ -6,6 +6,6 @@
 и посчитать кол-во вхождений строки "Go" в теле ответа. В конце работы приложение выводит на экран общее количество найденных строк "Go" во всех переданных URL
 
 # Запуск
-## 1. Склонировать репозиторий с помощью команды "git clone https://github.com/kapralovs/number-of-occurrences.git"
-## 2. Перейти в директорию репозитория (команда "cd number-of-occurrences")
-## 3. Запустить командой "go run main.go" или "go run ."
+1. Склонировать репозиторий с помощью команды "git clone https://github.com/kapralovs/number-of-occurrences.git"
+2. Перейти в директорию репозитория (команда "cd number-of-occurrences")
+3. Запустить командой "go run main.go" или "go run ."
